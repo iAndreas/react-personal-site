@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-personal-site/static/css/main.96606c05.css",
-    "main.js": "/react-personal-site/static/js/main.1260dd21.js",
-    "static/js/453.d9d7ee60.chunk.js": "/react-personal-site/static/js/453.d9d7ee60.chunk.js",
-    "index.html": "/react-personal-site/index.html",
-    "static/media/getFetch.cjs": "/react-personal-site/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.96606c05.css.map": "/react-personal-site/static/css/main.96606c05.css.map",
-    "main.1260dd21.js.map": "/react-personal-site/static/js/main.1260dd21.js.map",
-    "453.d9d7ee60.chunk.js.map": "/react-personal-site/static/js/453.d9d7ee60.chunk.js.map"
+    "main.css": "/static/css/main.96606c05.css",
+    "main.js": "/static/js/main.805cff3d.js",
+    "static/js/453.d9d7ee60.chunk.js": "/static/js/453.d9d7ee60.chunk.js",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.96606c05.css.map": "/static/css/main.96606c05.css.map",
+    "main.805cff3d.js.map": "/static/js/main.805cff3d.js.map",
+    "453.d9d7ee60.chunk.js.map": "/static/js/453.d9d7ee60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96606c05.css",
-    "static/js/main.1260dd21.js"
+    "static/js/main.805cff3d.js"
   ]
 }
