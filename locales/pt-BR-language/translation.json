@@ -1,0 +1,37 @@
+{
+    "navigation": {
+        "curriculum": "Currículo", 
+        "english": "Inglês", 
+        "portuguese": "Português"
+    },
+    "about": {
+        "tag": "sobre mim", 
+        "title": "Sobre mim e minha jornada na tecnologia.", 
+        "text": "   Olá! sou André Gonçalves, tenho 22 anos, sou desenvolvedor de software e um entusiasta da tecnologia. Meu primeiro contato com desenvolvimento de software foi em 2017, quando comecei a estudar no Instituto Federal Catarinense (IFC) no ensino técnico.", 
+        "more": "   Nessa época fiz meu primeiro site para uma atividade, estavamos aprendendo HTML e a atividade era apenas para exercitar os conhecimentos passados, porém eu aprendi JS e CSS fazendo a tarefa pois eu queria que o site fosse bonito e funcional. Meu professor deu 0 na tarefa e me disse para refazer utilizando somente HTML.\n\n   Na época fiquei chateado, mas hoje percebo que dai sairam duas lições: a primeira é não pular etapas do processo de aprendizagem, a segunda é não utilizar tecnologias desnecessárias que não contribuem para o resultado final de um projeto.\n\n   O IFC me formou como Desenvolvedor Web (área que trabalho atualmente), mas eu tenho infinitos interesses em todos os campos da tecnologia: cybersegurança, IA, automação, hardware... Adoro explorar todos os assuntos porque à primeira vista você não entende como funciona, parece mágica, mas após estudar sobre e aplicar os conhecimentos você revela o truque.",
+        "button": "Quero saber mais..."
+    },
+    "skills": {
+        "tag": "competências", 
+        "title": "Minhas habilidades técnicas separadas por nível",
+        "advanced": "Avançado",
+        "intermediate": "Intermediário",
+        "english": "Inglês (escrever, \nler & ouvir)",
+        "englishtalk": "Falar em inglês",
+        "more": "   No IFC adquiri muito conhecimento nas ferramentas básicas de um software web: HTML, JS/jQuery, PHP e MySQL. Também houveram aulas de introdução a outras linguagens e frameworks como Angular, NodeJS e Bootstrap.\n\n   No meu primeiro trabalho (IPM Sistemas), durante dois anos e meio, fiz parte da equipe de desenvolvimento de um sistema web de gestão de centros de saúde para municípios que utilizava as mesmas tecnologias que aprendi, o que me fez masterizar HTML, JS/jQuery, PHP e MySQL.\n\n   No meu segundo emprego (NxFácil) eu aprendi PostgreSQL, que é muito parecido com o MySQL porém com algumas diferenças de sintaxe, e desenvolvo para dois sistemas em paralelo, um ERP que usa PHP nativo no backend e Bootstrap com jQuery no frontend e um software de gestão de projetos (parecido com o Trello) que usa o mesmo front porém Laravel no backend.\n\n   Desenvolvi uma API de Whatsapp para estes softwares no NodeJS utilizando o puppeteer e também uma API do ERP para outros softwares integrarem utilizando Laravel e Postman para a documentação. Além disso faço o controle e eventuais manutenções nos servidores, o que me deu conhecimentos em Linux, servers e AWS.\n\n   As demais competências adquiri com estudo autodidata.",
+        "button": "Me mostre os detalhes..."
+    },
+    "experiences": {
+        "tag1": "experiências",
+        "tag2": "linha do tempo",
+        "title": "Lugares onde desenvolvi minhas competências",
+        "school": "Ensino",
+        "ifc": "IFC (Instituto Federal)\nTecnologia da Informação\n2017 - 2019",
+        "jobs": "Trabalhos",
+        "ipm": "IPM Sistemas\nDesenvolvedor Fullstack\nfev 2020 - jul 2022",
+        "nxfacil": "NxFácil\nDesenvolvedor Fullcycle\njul 2022 - presente",
+        "more": "   A IPM foi meu primeiro trabalho, comecei fazendo um curso dado por eles e eles me contrataram por conta do meu desempenho nele. Desenvolvi na prática as linguagens que havia aprendido no IFC. Nomeio minha função como \"Fullstack\" pois fazia tanto front quando backend.\n\n   Na NxFácil utilizo também as tecnologias anteriores e algumas outras que não havia utilizado antes e aprendi enquanto desenvolvia (detalhes técnicos na aba de competências). Nomeei minha função como \"Fullcycle\" pois diferente do fullstack, aqui eu cuido de todo o ciclo do software: desde a análise e levantamento de requisitos, o desenvolvimento front e backend até o deploy da aplicação, pois sou responsável pelos servidores também.\n\n   Esta vaga me trouxe uma bagagem muito grande de responsabilidades e conhecimentos. ",
+        "button": "Me explique mais..."
+    },
+    "button-back": "Voltar..."
+}
